@@ -1,0 +1,9 @@
+.vs/
+Blizzt.CppSDK/
+Blizzt.CppSDKStatic/x64/
+Blizzt.CppSDKStatic/x64/*.vcxproj.filters
+Blizzt.CppSDKStatic/x64/*.vcxproj.user
+
+libraries/
+x64/
+
